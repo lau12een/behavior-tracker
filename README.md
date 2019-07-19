@@ -5,35 +5,62 @@ The Behavior Tracker app was designed to help special education teachers track t
 ## Site Map:
 ![Site Map](/images/designs/sitemap.png)
 
-## User Stories
+## User Stories and Designs:
 **Landing Page**
 
 As a user, I want to understand what the app is so that I can decide if I want to use it .
-
-*Keyboard-Only User*
-
-As keyboard-only user, I want to be able to reach the the button on the landing page so I can start my search.
-I want the ability to use the enter key to open the selected button so it can lead me to the search page.
-
-*Screen Reader User*
-
-As a screen reader user, I want to hear every word that is said on the page.
-I want to understand the purpose of each button so I can start my search.
-
-*User with Low-Vision*
-
-As a user who has trouble reading due to low vision, I want to be able to make the text larger on the screen so that I can read it.
-
-*User with Color-blindness*
-
-As a user who is color blind, I want to links to be distinguishable on the page so that I can find the links and navigate the site.
-
-*Hearing Impaired User*
-
-As a user who is hearing-impaired, I want a transcript of the spoken audio so that I can have access to all information provided in audio clips.
+![Landing Page](/images/designs/landingpage.png)
 
 **Register Page**
 
 
 As a user, I want to create an account so that I can save my information login information
+![Register Page](/images/designs/registrationpage.png)
+
+**Login Page**
+
+
+As a user, I want to log in so I can have access to my student dashboard 
+
+![Login Page](/images/designs/loginpage.png)
+
+**Dashboard Page** 
+
+
+As a user, I want to see my list of students , so I can pick which one I will need to track or review data for . I would also like to see how many students I have in total . I would also like to be able to add a student using an "Add Student" button.
+At the top right corner I would like to see a Account button that will allow me to review my account info and change password option. I would also like to see a logout button. 
+
+![Dashboard Page](/images/designs/dashboardpage.png)
+
+**Account Page**
+
+As a user, I want to be able to view and change my account information when needed . I would also like to log out so I can keep student data secure. 
+
+I would also like to see an option to change my password, so I can keep my account secure as possible.
+
+![Account Page](/images/designs/accountpage.png)
+
+**Change Password Page**
+
+As a user, I want to change my password so I can keep my account secure as possible .
+
+![Password Page](/images/designs/passwordpage.png)
+
+**Add Student Page**
+As a user, I want to be able to add a student and a student's behavior(s) to my account.
+
+
+**Student Page**
+
+As a user, I want to see the list of behaviors a particular student has and the options to track data or review past data .
+
+**Tracker Page**
+
+As a user, I want to see a form that will help me track the student's specific behavior. This form should have a time slot, activity slot, frequency counter, duration timer, and notes section as well as submit button .
+
+**Review Page**
+As a user, I want to see a list of dates that are links that direct me to pass data entries 
+
+
+
 
