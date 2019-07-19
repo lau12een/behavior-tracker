@@ -49,18 +49,25 @@ As a user, I want to change my password so I can keep my account secure as possi
 **Add Student Page**
 As a user, I want to be able to add a student and a student's behavior(s) to my account.
 
+![Add Student Page](/images/designs/addstudentpage.png)
+
 
 **Student Page**
 
 As a user, I want to see the list of behaviors a particular student has and the options to track data or review past data .
 
+![Student Page](/images/designs/studentpage.png)
+
 **Tracker Page**
 
 As a user, I want to see a form that will help me track the student's specific behavior. This form should have a time slot, activity slot, frequency counter, duration timer, and notes section as well as submit button .
 
+![Tracker Page](/images/designs/trackerpage.png)
+
 **Review Page**
 As a user, I want to see a list of dates that are links that direct me to pass data entries 
 
+![Review Page](/images/designs/reviewpage.png)
 
 
 
