@@ -69,5 +69,32 @@ As a user, I want to see a list of dates that are links that direct me to pass d
 
 ![Review Page](/images/designs/reviewpage.png)
 
+## Technical
 
+Behavior Tracker was built with:
+
+#### Front End
+
+* HTML5
+* CSS3
+* JavaScript 
+* jQuery 
+
+#### Back End 
+
+* Node.js 
+* Express.js
+* Mocha and Chai for testing
+
+## Development Road Map
+Features for future iterations include: 
+- The ability to graph the data.
+- The ability to have the time noted automatically without having to input ( for data taken in real time)
+
+#  The typical command lines for capstone projects
+
+## Node command lines
+* npm install ==> install all node modules
+* nodemon server.js ==> run node server
+* npm test ==> run the tests
 
