@@ -58,6 +58,12 @@ As a user, I want to see the list of behaviors a particular student has and the 
 
 ![Student Page](/images/designs/studentpage.png)
 
+**Add Behavior Page**
+
+As a user, I want to be able to add new behavors and edit current behaviors in my student's repertoire. As well as review his current rates and his goal rates.
+
+![Add Behavior Page](/images/designs/addbehaviorpage.png)
+
 **Tracker Page**
 
 As a user, I want to see a form that will help me track the student's specific behavior. This form should have a time slot, activity slot, frequency counter, duration timer, and notes section as well as submit button .
