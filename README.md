@@ -75,6 +75,11 @@ As a user, I want to see a list of dates that are links that direct me to pass d
 
 ![Review Page](/images/designs/reviewpage.png)
 
+**Info Page**
+As a user, I want to be able to review the information about the behavior
+
+![Info Page](/images/designs/infopage.png)
+
 ## Technical
 
 Behavior Tracker was built with:
